@@ -1,1 +1,2 @@
-# refactorizacion
+# refactor-practice
+Practica de refactor
