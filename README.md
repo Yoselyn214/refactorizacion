@@ -21,3 +21,4 @@ Se harán 4 pruebas unitarias:
 | Empate | Se debe ingresar la data para el test.| Una vez ingresado la data se llamará a la función calcularGanador | data = [['Áncash', 'Asunción', 'Acochaca', '57533597', 'Eddie Hinesley', '1'],['Áncash', 'Asunción', 'Acochaca', '86777322', 'Aundrea Grace', '1'],['Áncash', 'Asunción', 'Acochaca', '86747322', 'Aundrea Grace', '1'],['Áncash', 'Asunción', 'Acochaca', '57538597', 'Eddie Hinesley', '1']] |   ['Eddie Hinesley']  |
 
 Resultados de los casos de pruebas
+![](1.png)
