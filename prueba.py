@@ -57,7 +57,7 @@ class TestCalculaGanador(unittest.TestCase):
         data = [
             ['Áncash', 'Asunción', 'Acochaca', '1234567', 'Paula Daigle', '1'],  # DNI inválido
             ['Áncash', 'Asunción', 'Acochaca', '12345678', 'Aundrea Grace', '1'],
-            ['Áncash', 'Asunción', 'Acochaca', '1237447', 'Paula Daigle', '1'],
+            ['Áncash', 'Asunción', 'Acochaca', '1237447', 'Paula Daigle', '1'], #DNI inválido
             ['Áncash', 'Asunción', 'Acochaca', '12345698', 'Aundrea Grace', '1']
         ]
         for fila in data:
